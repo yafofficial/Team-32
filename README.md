@@ -1,6 +1,6 @@
-                                                                 # AI-Powered Vulnerability Tracker
+                                                   # AI-Powered Vulnerability Tracker
 
-                                                                                                                                                    **Date: Aug-8-2025**
+                                                                                                       **Date: Aug-8-2025**
 
 ## Overview of the Project
 
@@ -117,4 +117,4 @@ Special thanks to:
 - Open-source communities of Python, Flask, React, and scikit-learn
 - The many ethical hackers and researchers who inspired this idea
 
-                                                                                                                                             **BY TEAM-32**
+                                                                                                           **BY TEAM-32**
